@@ -1,3 +1,2 @@
 # HTML PRACTICES
-1.A basic table using the attributes rowspan and colspan
-2.Basic FOorm using html only
+A basic table using the attributes rowspan and colspan, basic FOorm using html only
